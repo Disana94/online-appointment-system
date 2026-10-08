@@ -12,5 +12,4 @@
 ## Диаграммы
 
 - [Use Case диаграмма](./docs/use-case-diagram.jpg)
-- [Диаграмма последовательности](./docs/sequence-diagram.png)
 - [ER-диаграмма](./docs/er-diagram.png)
